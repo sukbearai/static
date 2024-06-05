@@ -1,4 +1,4 @@
 ```
 // usage
-https://cdn.jsdelivr.net/gh/sukbearai/static@main/${dirP}/${file}
+https://cdn.jsdelivr.net/gh/sukbearai/static@main/${dir}/${file}
 ```
